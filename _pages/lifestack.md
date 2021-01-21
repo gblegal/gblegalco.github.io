@@ -1,6 +1,7 @@
 ---
 permalink: /lifestack/
 title: "Lifestack"
+layout: splash
 ---
 
 ## Smart Home & Networking
