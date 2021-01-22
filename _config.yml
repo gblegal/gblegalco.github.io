@@ -25,7 +25,9 @@ defaults:
   values:
     layout: single
     author_profile: true
-exclude: ["Gemfile.lock", "node_modules"]
+exclude:
+- Gemfile.lock
+- node_modules
 email: 
 description: Greg Baker's home on the web, powered by Jekyll and GitHub Pages.
 twitter_username: gblegalco
