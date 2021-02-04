@@ -1,9 +1,9 @@
 ---
-permalink: /about/
-title: "About"
+title: About
+permalink: "/about/"
 ---
 
-Hi, I’m Greg.
+Hi, I’m Greg Baker.
 
 * Qualified solicitor, working at a leading law firm to develop and implement innovative and more efficent ways of working for our phenomenal M&A practice.
 * Apple devotee (MacBook Pro 13” / iPad Pro 12.9” 3rd Gen / iPhone 12 Pro / Mac Mini(s).

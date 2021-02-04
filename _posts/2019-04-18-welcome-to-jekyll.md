@@ -2,10 +2,10 @@
 title: "Kicking this off with GitHub Pages, Jekyll & Working Copy"
 date: 2021-02-01T15:00:00-04:00
 categories:
-  - blog
+- Blog
 tags:
-  - Jekyll
-  - update
+- Jekyll
+- update
 ---
 
 I regularly find myself with a dilemma.
