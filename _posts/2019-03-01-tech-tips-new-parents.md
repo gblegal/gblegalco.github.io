@@ -4,9 +4,8 @@ date: 2019-03-01 09:25:00 Z
 categories:
 - Blog
 tags:
-- iPad
-- productivity
-- standard
+- parenting
+- automation
 excerpt_separator: "<!--more-->"
 ---
 
@@ -17,6 +16,8 @@ Most are not groundbreaking but aim to reduce the mental load for new parents.
 Automation is incredibly powerful and allows one to ‘forget’ about repeated and other admin tasks until they’re are needed to be acted upon.
 
 There is an Apple/iOS focus because that’s what we mostly run on – I imagine there are equivalents for Android.
+
+<!—more—>
 
 ## iOS & your phone
 
