@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
     - enabling our amazing lawyers to fully utilise technical innovations and efficiency tools
     - acting as a matter consultant to enable our lawyers to deliver outstanding and efficient client service 
 
-  I am most skilled in: understanding the business of law <mark>innovating the way lawyers work</mark>, plus at work at home <mark>playing with the latest tech</mark>.
+  I am most skilled in: understanding the <mark>business of law</mark>, improving <mark>the way lawyers work</mark>, plus at work at home <mark>playing with and assessing the latest tech innovations!</mark>.
 
 content:
   - title: Other Projects # Title for the section
@@ -77,7 +77,7 @@ content:
         quote: >
           I used to know all of this stuff, but other things crowded it out.
         description: | # this will include new lines to allow paragraphs
-          I am using this website and a few others to refamiliarise myself with some basic web technologies, hosting strategies and general web content.
+          I am using this website and a few others to refamiliarise myself with some basic web technologies, hosting strategies and general web publishing.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
