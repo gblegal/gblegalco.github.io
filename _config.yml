@@ -105,6 +105,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           More details upon request.
     
+      - layout: left
         title: University of Durham
         caption: 2002 - 2005
         sub_title: Economics & Politics
